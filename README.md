@@ -16,4 +16,16 @@ This repo tracks my journey learning DSA, including:
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kri7h/DSA-v2/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kri7h/DSA-v2/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kri7h/DSA-v2/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kri7h/DSA-v2/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

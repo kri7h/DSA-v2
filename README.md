@@ -19,6 +19,7 @@ This repo tracks my journey learning DSA, including:
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kri7h/DSA-v2/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/kri7h/DSA-v2/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -28,4 +29,12 @@ This repo tracks my journey learning DSA, including:
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kri7h/DSA-v2/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kri7h/DSA-v2/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kri7h/DSA-v2/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

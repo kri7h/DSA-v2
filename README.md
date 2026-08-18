@@ -15,6 +15,7 @@ This repo tracks my journey learning DSA, including:
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/kri7h/DSA-v2/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kri7h/DSA-v2/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
@@ -37,4 +38,13 @@ This repo tracks my journey learning DSA, including:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kri7h/DSA-v2/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/kri7h/DSA-v2/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kri7h/DSA-v2/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kri7h/DSA-v2/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

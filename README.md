@@ -15,6 +15,7 @@ This repo tracks my journey learning DSA, including:
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kri7h/DSA-v2/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/kri7h/DSA-v2/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kri7h/DSA-v2/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
@@ -47,4 +48,12 @@ This repo tracks my journey learning DSA, including:
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kri7h/DSA-v2/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kri7h/DSA-v2/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kri7h/DSA-v2/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

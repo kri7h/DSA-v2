@@ -27,10 +27,12 @@ This repo tracks my journey learning DSA, including:
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kri7h/DSA-v2/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kri7h/DSA-v2/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kri7h/DSA-v2/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kri7h/DSA-v2/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,4 +58,8 @@ This repo tracks my journey learning DSA, including:
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kri7h/DSA-v2/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/kri7h/DSA-v2/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ This repo tracks my journey learning DSA, including:
 | [0069-sqrtx](https://github.com/kri7h/DSA-v2/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/kri7h/DSA-v2/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kri7h/DSA-v2/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kri7h/DSA-v2/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |

@@ -15,6 +15,7 @@ This repo tracks my journey learning DSA, including:
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/kri7h/DSA-v2/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/kri7h/DSA-v2/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kri7h/DSA-v2/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/kri7h/DSA-v2/tree/master/0509-fibonacci-number) |

@@ -1,8 +1,8 @@
 # DSA-v2
 
-My Data Structures & Algorithms practice repository — solutions, notes, and progress as I learn DSA from scratch.
+My Data Structures & Algorithms practice repository â solutions, notes, and progress as I learn DSA from scratch.
 
-## 📌 About
+## ð About
 
 This repo tracks my journey learning DSA, including:
 - Solved problems (with explanations)
@@ -24,6 +24,7 @@ This repo tracks my journey learning DSA, including:
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kri7h/DSA-v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kri7h/DSA-v2/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kri7h/DSA-v2/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/kri7h/DSA-v2/tree/master/0217-contains-duplicate) |
@@ -66,4 +67,8 @@ This repo tracks my journey learning DSA, including:
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kri7h/DSA-v2/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kri7h/DSA-v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
